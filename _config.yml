@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Shenyang Huang"
 title_separator          : "-"
-name                     : &name "Shenyang"
-description              : &description "cognitive neuroscience PhD student at Duke"
-url                      : https://huang-shenyang.github.io/self/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Shenyang Huang"
+description              : &description "Personal academic page"
+url                      : https://huang-shenyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Huang-Shenyang/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -82,35 +82,23 @@ analytics:
 author:
   name             : "Shenyang Huang"
   avatar           : "profile.png"
-  bio              : "CogNeuro"
-  location         : "Location"
+  bio              : "CogNeuro PhD student at Duke"
+  location         : "Durham, NC"
   employer         :
-#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "mailto:shenyang.huang@duke.edu"
-#  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-#  uri              :
-#  bitbucket        :
-#  codepen          :
-#  dribbble         :
-#  flickr           :
-#  facebook         :
-#  foursquare       :
-  github           : "academicpages"
-#  google_plus      :
-#  keybase          :
-#  instagram        :
-#  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-#  lastfm           :
+  twitter          : "SelfShenyang"
+  github           : "https://github.com/Huang-Shenyang"
   orcid            : "https://orcid.org/0000-0002-5494-925X"
   linkedin         : "https://www.linkedin.com/in/shenyang-huang-73b23596"
-#  pinterest        :
-#  soundcloud       :
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  googlescholar    : "http://yourfullgooglescholarurl.com"
+#  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+#  uri              :
+#  facebook         :
+#  instagram        :
+#  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
 #  stackoverflow    : # http://stackoverflow.com/users/123456/username
 #  steam            :
-#  tumblr           :
-  twitter          : "SelfShenyang"
-#  vine             :
 #  weibo            :
 #  xing             :
 #  youtube          :
