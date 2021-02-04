@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Shenyang Huang"
   avatar           : "profile.png"
-  bio              : "CogNeuro PhD student at Duke"
-  location         : "Durham, NC"
-  employer         :
+  bio              : "Cognitive Neuroscience PhD student at Duke"
+#  location         : 
+#  employer         :
   email            : "mailto:shenyang.huang@duke.edu"
   twitter          : "SelfShenyang"
   github           : "https://github.com/Huang-Shenyang"
