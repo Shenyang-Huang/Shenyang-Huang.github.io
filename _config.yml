@@ -84,23 +84,23 @@ author:
   name             : "Shenyang Huang"
   avatar           : "profile.png"
   bio              : "Cognitive Neuroscience PhD student at Duke"
-#  location         : 
-#  employer         :
+  location         : 
+  employer         :
   email            : "shenyang.huang@duke.edu"
-  twitter          : "SelfShenyang"
   github           : "Huang-Shenyang"
+  googlescholar    : "https://scholar.google.com/citations?user=MoNGBjAAAAAJ&hl=en"
   orcid            : "https://orcid.org/0000-0002-5494-925X"
   linkedin         : "shenyang-huang-73b23596"
-#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#  googlescholar    : "http://yourfullgooglescholarurl.com"
-#  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-#  uri              :
-#  facebook         :
-#  instagram        :
-#  weibo            :
-#  xing             :
-#  youtube          :
-#  wikipedia        :
+  twitter          : "SelfShenyang"
+  pubmed           : 
+  researchgate     :  
+  uri              :
+  facebook         :
+  instagram        :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
@@ -166,7 +166,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    # permalink: /:collection/:path/
   portfolio:
     output: false
     permalink: /:collection/:path/
