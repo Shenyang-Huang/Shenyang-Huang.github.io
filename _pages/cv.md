@@ -9,20 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+Education
+<!-- ====== -->
+* B.S. in Neuroscience and Mathematics, Duke University, 2020
 
-Here is a PDF of my CV. You can also [download it here](https://github.com/kevingoneill/cv/raw/master/cv.pdf).
+---
 
-<iframe src="https://docs.google.com/gview?url=https://github.com/kevingoneill/cv/raw/master/cv.pdf&embedded=true" style="margin: auto; width: 100%;" height="1000" frameborder="0" >
+Here is a PDF of my CV. You can also [download it here](https://github.com/Huang-Shenyang/Huang-Shenyang.github.io/raw/master/files/CV%20Shenyang%20Huang%20(5.23.2022).pdf).
+
+<iframe src="https://docs.google.com/gview?url=https://github.com/Huang-Shenyang/Huang-Shenyang.github.io/raw/master/files/CV%20Shenyang%20Huang%20(5.23.2022).pdf&embedded=true" style="margin: auto; width: 100%;" height="1000" frameborder="0" >
 </iframe>
 
 
 
-<!-- Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+<!-- 
 Work experience
 ======
 * Summer 2015: Research Assistant

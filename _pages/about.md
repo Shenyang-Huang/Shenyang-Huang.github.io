@@ -10,4 +10,4 @@ redirect_from:
 
 <!-- About me3
 ====== -->
-I am a 3rd-year PhD student at Duke University working with [Dr. Felipe De Brigard](https://www.imclab.org), [Dr. Roberto Cabezato](http://cabezalab.org), and [Dr. Simon Davis](https://sites.duke.edu/electricdino/) on projects related to episodic memory and neural representation.
+I am a 3rd-year PhD student at Duke University working with [Dr. Felipe De Brigard](https://www.imclab.org), [Dr. Roberto Cabeza](http://cabezalab.org), and [Dr. Simon W. Davis](https://sites.duke.edu/electricdino/) on projects related to episodic memory and neural representation.
