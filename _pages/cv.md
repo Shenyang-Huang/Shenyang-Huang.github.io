@@ -9,7 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+
+Here is a PDF of my CV. You can also [download it here](https://github.com/kevingoneill/cv/raw/master/cv.pdf).
+
+<iframe src="https://docs.google.com/gview?url=https://github.com/kevingoneill/cv/raw/master/cv.pdf&embedded=true" style="margin: auto; width: 100%;" height="1000" frameborder="0" >
+</iframe>
+
+
+
+<!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -57,3 +65,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
