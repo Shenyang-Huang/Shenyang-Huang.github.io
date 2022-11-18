@@ -15,7 +15,7 @@ Education
 
 ---
 
-Download my CV [here](https://github.com/Huang-Shenyang/Huang-Shenyang.github.io/raw/master/files/CV%20Shenyang%20Huang%20(5.23.2022).pdf).
+Download my CV [here](https://github.com/Huang-Shenyang/Huang-Shenyang.github.io/raw/master/files/CV%20Shenyang%20Huang.pdf).
 
 <iframe src="https://docs.google.com/gview?url=https://github.com/Huang-Shenyang/Huang-Shenyang.github.io/raw/master/files/CV%20Shenyang%20Huang%20(5.23.2022).pdf&embedded=true" style="margin: auto; width: 100%;" height="1000" frameborder="0" >
 </iframe>
