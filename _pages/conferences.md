@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Presentations at conferences"
-permalink: /Conferences/
+permalink: /conferences/
 author_profile: true
 ---
 
