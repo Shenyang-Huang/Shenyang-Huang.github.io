@@ -10,11 +10,16 @@ author_profile: true
 
 ---
 
-Teaching assistant for [Neuroscience 376 - Contemporary Neuroscience Methods](https://psychandneuro.duke.edu/courses/contemporary-neuroscience-methods)
+Teaching assistantship:
+- [Contemporary Neuroscience Methods](https://psychandneuro.duke.edu/courses/contemporary-neuroscience-methods)
+- [Contemporary Neuroscience Methods](https://psychandneuro.duke.edu/courses/contemporary-neuroscience-methods)
+- [Current Research in Neuroscience](https://psychandneuro.duke.edu/courses/current-research-neuroscience)
 
-[DIBS Methods Meetings](https://dibsmethodsmeetings.github.io/people/shenyang)
-
+Mentorship:
 [Duke Cognitive Neuroscience Research Internship (CNRI)](https://sites.duke.edu/cogneuroresearchinternship/)
+
+Workshops:
+[DIBS Methods Meetings](https://dibsmethodsmeetings.github.io/people/shenyang)
 
 ---
 
