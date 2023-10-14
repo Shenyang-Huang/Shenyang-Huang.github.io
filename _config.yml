@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Shenyang Huang"
 title_separator          : "&#124;"
 name                     : &name "Shenyang Huang"
-description              : &description "PhD student at Duke University"
+description              : &description "PhD candidate at Duke University"
 url                      : "https://huang-shenyang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Huang-Shenyang/Huang-Shenyang.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Shenyang Huang"
   avatar           : "profile.jpg"
-  bio              : "Cognitive Neuroscience PhD student at Duke"
+  bio              : "Cognitive Neuroscience PhD candidate at Duke"
   location         : 
   employer         :
   email            : "shenyang.huang@duke.edu"
