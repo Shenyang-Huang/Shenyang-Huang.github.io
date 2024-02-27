@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 <!-- ====== -->
+* M.A. in Psychology and Neuroscience, Duke University, 2023
 * B.S. in Neuroscience and Mathematics, Duke University, 2020
 
 ---
