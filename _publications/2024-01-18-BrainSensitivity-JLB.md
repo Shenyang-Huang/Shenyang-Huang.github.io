@@ -1,7 +1,7 @@
 ---
 title: 'U.S. public perceptions of the sensitivity of brain data'
 collection: publications
-# permalink: /publication/2024-01-18-BrainSensitivity
+# permalink: /publication/2024-01-18-BrainSensitivity-JLB
 # excerpt: 
 date: 2024-01-18
 venue: 'Journal of Law and the Biosciences'
