@@ -10,6 +10,6 @@ redirect_from:
 
 <!-- About me3
 ====== -->
-I am a 4th-year PhD candidate at Duke University working with [Dr. Felipe De Brigard](https://www.imclab.org), [Dr. Roberto Cabeza](http://cabezalab.org), and [Dr. Simon W. Davis](https://sites.duke.edu/electricdino/) to study people's episodic and semantic memory--using both behavioral experiments and functional magnetic resonance imaging (fMRI).
+I am a 5th-year PhD candidate at Duke University working with [Dr. Felipe De Brigard](https://www.imclab.org), [Dr. Roberto Cabeza](http://cabezalab.org), and [Dr. Simon W. Davis](https://sites.duke.edu/electricdino/) to study people's episodic and semantic memory--using both behavioral experiments and functional magnetic resonance imaging (fMRI).
 
 With abundant experience in designing, conducting, analyzing data from, and communicating results of many research projects in cognitive neuroscience, I enjoy working on multiple concurrent projects and actively participates in collaborations. I seek opportunities to apply my quantitative and technical skills to better understand the human cognition and optimize people’s quality of life.
