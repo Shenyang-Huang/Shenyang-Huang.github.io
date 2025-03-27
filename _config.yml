@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Shenyang Huang"
 title_separator          : "&#124;"
 name                     : &name "Shenyang Huang"
-description              : &description "PhD at Duke University"
-url                      : "https://huang-shenyang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Data Scientist at Microsoft"
+url                      : "https://shenyang-huang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Huang-Shenyang/Huang-Shenyang.github.io"
+repository               : "Shenyang-Huang/Shenyang-Huang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,11 +83,11 @@ analytics:
 author:
   name             : "Shenyang Huang"
   avatar           : "profile.jpg"
-  bio              : "Cognitive Neuroscience PhD at Duke"
+  bio              : "Data Scientist at Microsoft"
   location         : 
   employer         :
   email            : "shenyang.self@gmail.com"
-  github           : "Huang-Shenyang"
+  github           : "Shenyang-Huang"
   googlescholar    : "https://scholar.google.com/citations?user=BZZ1XE4AAAAJ"
   orcid            : "https://orcid.org/0000-0002-5494-925X"
   linkedin         : "shenyanghuang"
