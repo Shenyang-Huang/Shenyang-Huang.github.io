@@ -3,14 +3,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Conferences"
-    url: /conferences/    
-
   - title: "Publications"
     url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/    
                 
   - title: "CV"
     url: /cv/
